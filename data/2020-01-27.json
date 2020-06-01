@@ -13,7 +13,7 @@
       "airline": "KLM",
       "aircraft": {"code": "E190", "name": "EMBRAER ERJ190"},
       "to": {"n": "Amsterdam", "IATA": "AMS", "geo": [4.76389,52.3086], "cc": "NL", "continent": "EU"},
-      "km": 462.46,
+      "dist": {"km": 462.46, "type": "gc"},
       "emissions": {"f": 10.2, "kg": 4717.13}
     },
     {
@@ -22,7 +22,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Malaga", "IATA": "AGP", "geo": [-4.49911,36.6749], "cc": "ES", "continent": "EU"},
-      "km": 1924.02,
+      "dist": {"km": 1924.02, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 22126.24}
     },
     {
@@ -31,7 +31,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Dublin", "IATA": "DUB", "geo": [-6.27007,53.4213], "cc": "IE", "continent": "EU"},
-      "km": 307.78,
+      "dist": {"km": 307.78, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 3539.5}
     },
     {
@@ -40,7 +40,7 @@
       "airline": "flybe",
       "aircraft": {"code": "JS41", "name": ""},
       "to": {"n": "Southampton", "IATA": "SOU", "geo": [-1.3568,50.9503], "cc": "GB", "continent": "EU"},
-      "km": 324.85,
+      "dist": {"km": 324.85, "type": "gc"},
       "emissions": {"f": 11.1, "kg": 3605.87}
     },
     {
@@ -49,7 +49,7 @@
       "airline": "flybe",
       "aircraft": {"code": "DH8D", "name": "BOMBARDIER DASH 8 Q400"},
       "to": {"n": "Belfast City", "IATA": "BHD", "geo": [-5.8725,54.6181], "cc": "GB", "continent": "EU"},
-      "km": 286.13,
+      "dist": {"km": 286.13, "type": "gc"},
       "emissions": {"f": 7.1, "kg": 2031.51}
     },
     {
@@ -58,7 +58,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Tenerife South", "IATA": "TFS", "geo": [-16.5725,28.0445], "cc": "ES", "continent": "EU"},
-      "km": 3117.78,
+      "dist": {"km": 3117.78, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 35854.44}
     },
     {
@@ -67,7 +67,7 @@
       "airline": "Aer Lingus",
       "aircraft": {"code": "AT72", "name": "ATR72 200/500/600"},
       "to": {"n": "Dublin", "IATA": "DUB", "geo": [-6.27007,53.4213], "cc": "IE", "continent": "EU"},
-      "km": 307.78,
+      "dist": {"km": 307.78, "type": "gc"},
       "emissions": {"f": 5.2, "kg": 1600.47}
     },
     {
@@ -76,7 +76,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Geneva", "IATA": "GVA", "geo": [6.10895,46.2381], "cc": "CH", "continent": "EU"},
-      "km": 1012.15,
+      "dist": {"km": 1012.15, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 11639.67}
     },
     {
@@ -85,7 +85,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B752", "name": "BOEING 757-200"},
       "to": {"n": "Arrecife", "IATA": "ACE", "geo": [-13.6052,28.9455], "cc": "ES", "continent": "EU"},
-      "km": 2935.41,
+      "dist": {"km": 2935.41, "type": "gc"},
       "emissions": {"f": 14.7, "kg": 43150.51}
     },
     {
@@ -94,7 +94,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Bratislava", "IATA": "BTS", "geo": [17.2127,48.1702], "cc": "SK", "continent": "EU"},
-      "km": 1458.24,
+      "dist": {"km": 1458.24, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 16769.75}
     },
     {
@@ -103,7 +103,7 @@
       "airline": "KLM",
       "aircraft": {"code": "E190", "name": "EMBRAER ERJ190"},
       "to": {"n": "Amsterdam", "IATA": "AMS", "geo": [4.76389,52.3086], "cc": "NL", "continent": "EU"},
-      "km": 462.46,
+      "dist": {"km": 462.46, "type": "gc"},
       "emissions": {"f": 10.2, "kg": 4717.13}
     },
     {
@@ -112,7 +112,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Malaga", "IATA": "AGP", "geo": [-4.49911,36.6749], "cc": "ES", "continent": "EU"},
-      "km": 1924.02,
+      "dist": {"km": 1924.02, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 22126.24}
     },
     {
@@ -121,7 +121,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Alicante", "IATA": "ALC", "geo": [-0.55816,38.2822], "cc": "ES", "continent": "EU"},
-      "km": 1734.86,
+      "dist": {"km": 1734.86, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 19950.88}
     },
     {
@@ -130,7 +130,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B733", "name": "BOEING 737-300"},
       "to": {"n": "Paris Cdg", "IATA": "CDG", "geo": [2.55,49.0128], "cc": "FR", "continent": "EU"},
-      "km": 613.25,
+      "dist": {"km": 613.25, "type": "gc"},
       "emissions": {"f": 11.6, "kg": 7113.65}
     },
     {
@@ -139,7 +139,7 @@
       "airline": "British Airways",
       "aircraft": {"code": "A319", "name": "AIRBUS A319"},
       "to": {"n": "London Heathrow", "IATA": "LHR", "geo": [-0.46194,51.4706], "cc": "GB", "continent": "EU"},
-      "km": 278.33,
+      "dist": {"km": 278.33, "type": "gc"},
       "emissions": {"f": 14.9, "kg": 4147.09}
     },
     {
@@ -148,7 +148,7 @@
       "airline": "flybe",
       "aircraft": {"code": "DH8D", "name": "BOMBARDIER DASH 8 Q400"},
       "to": {"n": "Belfast City", "IATA": "BHD", "geo": [-5.8725,54.6181], "cc": "GB", "continent": "EU"},
-      "km": 286.13,
+      "dist": {"km": 286.13, "type": "gc"},
       "emissions": {"f": 7.1, "kg": 2031.51}
     },
     {
@@ -157,7 +157,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Gdansk", "IATA": "GDN", "geo": [18.4662,54.3776], "cc": "PL", "continent": "EU"},
-      "km": 1308.38,
+      "dist": {"km": 1308.38, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 15046.33}
     },
     {
@@ -166,7 +166,7 @@
       "airline": "flybe",
       "aircraft": {"code": "JS41", "name": ""},
       "to": {"n": "Southampton", "IATA": "SOU", "geo": [-1.3568,50.9503], "cc": "GB", "continent": "EU"},
-      "km": 324.85,
+      "dist": {"km": 324.85, "type": "gc"},
       "emissions": {"f": 11.1, "kg": 3605.87}
     },
     {
@@ -175,7 +175,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Krakow", "IATA": "KRK", "geo": [19.7848,50.0777], "cc": "PL", "continent": "EU"},
-      "km": 1521.58,
+      "dist": {"km": 1521.58, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 17498.21}
     },
     {
@@ -184,7 +184,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Alicante", "IATA": "ALC", "geo": [-0.55816,38.2822], "cc": "ES", "continent": "EU"},
-      "km": 1734.86,
+      "dist": {"km": 1734.86, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 19950.88}
     },
     {
@@ -193,7 +193,7 @@
       "airline": "flybe",
       "aircraft": {"code": "DH8D", "name": "BOMBARDIER DASH 8 Q400"},
       "to": {"n": "Newquay", "IATA": "NQY", "geo": [-4.99541,50.4406], "cc": "GB", "continent": "EU"},
-      "km": 443.54,
+      "dist": {"km": 443.54, "type": "gc"},
       "emissions": {"f": 7.1, "kg": 3149.14}
     },
     {
@@ -202,7 +202,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B733", "name": "BOEING 737-300"},
       "to": {"n": "Amsterdam", "IATA": "AMS", "geo": [4.76389,52.3086], "cc": "NL", "continent": "EU"},
-      "km": 462.46,
+      "dist": {"km": 462.46, "type": "gc"},
       "emissions": {"f": 11.6, "kg": 5364.58}
     },
     {
@@ -211,7 +211,7 @@
       "airline": "flybe",
       "aircraft": {"code": "JS41", "name": ""},
       "to": {"n": "Southampton", "IATA": "SOU", "geo": [-1.3568,50.9503], "cc": "GB", "continent": "EU"},
-      "km": 324.85,
+      "dist": {"km": 324.85, "type": "gc"},
       "emissions": {"f": 11.1, "kg": 3605.87}
     },
     {
@@ -220,7 +220,7 @@
       "airline": "KLM",
       "aircraft": {"code": "E190", "name": "EMBRAER ERJ190"},
       "to": {"n": "Amsterdam", "IATA": "AMS", "geo": [4.76389,52.3086], "cc": "NL", "continent": "EU"},
-      "km": 462.46,
+      "dist": {"km": 462.46, "type": "gc"},
       "emissions": {"f": 10.2, "kg": 4717.13}
     },
     {
@@ -229,7 +229,7 @@
       "airline": "British Airways",
       "aircraft": {"code": "A319", "name": "AIRBUS A319"},
       "to": {"n": "London Heathrow", "IATA": "LHR", "geo": [-0.46194,51.4706], "cc": "GB", "continent": "EU"},
-      "km": 278.33,
+      "dist": {"km": 278.33, "type": "gc"},
       "emissions": {"f": 14.9, "kg": 4147.09}
     },
     {
@@ -238,7 +238,7 @@
       "airline": "Aer Lingus",
       "aircraft": {"code": "AT72", "name": "ATR72 200/500/600"},
       "to": {"n": "Dublin", "IATA": "DUB", "geo": [-6.27007,53.4213], "cc": "IE", "continent": "EU"},
-      "km": 307.78,
+      "dist": {"km": 307.78, "type": "gc"},
       "emissions": {"f": 5.2, "kg": 1600.47}
     },
     {
@@ -247,7 +247,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Dublin", "IATA": "DUB", "geo": [-6.27007,53.4213], "cc": "IE", "continent": "EU"},
-      "km": 307.78,
+      "dist": {"km": 307.78, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 3539.5}
     },
     {
@@ -256,7 +256,7 @@
       "airline": "flybe",
       "aircraft": {"code": "DH8D", "name": "BOMBARDIER DASH 8 Q400"},
       "to": {"n": "Belfast City", "IATA": "BHD", "geo": [-5.8725,54.6181], "cc": "GB", "continent": "EU"},
-      "km": 286.13,
+      "dist": {"km": 286.13, "type": "gc"},
       "emissions": {"f": 7.1, "kg": 2031.51}
     },
     {
@@ -265,7 +265,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Wroclaw", "IATA": "WRO", "geo": [16.8858,51.1027], "cc": "PL", "continent": "EU"},
-      "km": 1288.83,
+      "dist": {"km": 1288.83, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 14821.57}
     }
   ]
