@@ -1,0 +1,20 @@
+{
+  "from": {
+    "n": "Leeds Bradford",
+    "IATA": "LBA",
+    "geo": [-1.66057,53.8659],
+    "cc": "GB",
+    "continent": "EU"
+  },
+  "flights": [
+    {
+      "id": "FR9079",
+      "time": "2020-06-24T16:10:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "", "name": ""},
+      "to": {"n": "Alicante", "IATA": "ALC", "geo": [-0.55816,38.2822], "cc": "ES", "continent": "EU"},
+      "km": 1734.86,
+      "emissions": {"f": 11.8, "kg": 20471.34}
+    }
+  ]
+}
