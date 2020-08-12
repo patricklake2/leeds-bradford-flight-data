@@ -1,0 +1,74 @@
+{
+  "from": {
+    "n": "Leeds Bradford",
+    "IATA": "LBA",
+    "geo": [-1.66057,53.8659],
+    "cc": "GB",
+    "continent": "EU"
+  },
+  "flights": [
+    {
+      "id": "FR153",
+      "time": "2020-08-12T06:35:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Dublin", "IATA": "DUB", "geo": [-6.27007,53.4213], "cc": "IE", "continent": "EU"},
+      "km": 307.78,
+      "emissions": {"f": 11.5, "kg": 3539.5}
+    },
+    {
+      "id": "FR4107",
+      "time": "2020-08-12T09:30:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Wroclaw", "IATA": "WRO", "geo": [16.8858,51.1027], "cc": "PL", "continent": "EU"},
+      "km": 1288.83,
+      "emissions": {"f": 11.5, "kg": 14821.57}
+    },
+    {
+      "id": "KL1542",
+      "time": "2020-08-12T10:00:00Z",
+      "airline": "KLM",
+      "aircraft": {"code": "E170", "name": "EMB ERJ170 (170-100)"},
+      "to": {"n": "Amsterdam", "IATA": "AMS", "geo": [4.76389,52.3086], "cc": "NL", "continent": "EU"},
+      "km": 462.46,
+      "emissions": {"f": 8.9, "kg": 4115.93}
+    },
+    {
+      "id": "LS447",
+      "time": "2020-08-12T10:35:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Zakinthos", "IATA": "ZTH", "geo": [20.8843,37.7509], "cc": "GR", "continent": "EU"},
+      "km": 2481.89,
+      "emissions": {"f": 11.5, "kg": 28541.78}
+    },
+    {
+      "id": "T37682",
+      "time": "2020-08-12T11:10:00Z",
+      "airline": "Eastern Airways",
+      "aircraft": {"code": "", "name": ""},
+      "to": {"n": "Newquay", "IATA": "NQY", "geo": [-4.99541,50.4406], "cc": "GB", "continent": "EU"},
+      "km": 443.54,
+      "emissions": {"f": 11.1, "kg": 4923.3}
+    },
+    {
+      "id": "LS215",
+      "time": "2020-08-12T11:40:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Bodrum", "IATA": "BJV", "geo": [27.6643,37.2506], "cc": "TR", "continent": "AS"},
+      "km": 2901.16,
+      "emissions": {"f": 11.5, "kg": 33363.37}
+    },
+    {
+      "id": "FR2446",
+      "time": "2020-08-12T17:00:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Malaga", "IATA": "AGP", "geo": [-4.49911,36.6749], "cc": "ES", "continent": "EU"},
+      "km": 1924.02,
+      "emissions": {"f": 11.5, "kg": 22126.24}
+    }
+  ]
+}
