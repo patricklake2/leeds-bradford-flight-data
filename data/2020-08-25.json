@@ -1,0 +1,119 @@
+{
+  "from": {
+    "n": "Leeds Bradford",
+    "IATA": "LBA",
+    "geo": [-1.66057,53.8659],
+    "cc": "GB",
+    "continent": "EU"
+  },
+  "flights": [
+    {
+      "id": "LS443",
+      "time": "2020-08-25T06:10:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Heraklion", "IATA": "HER", "geo": [25.1803,35.3397], "cc": "GR", "continent": "EU"},
+      "km": 2926.31,
+      "emissions": {"f": 11.5, "kg": 33652.61}
+    },
+    {
+      "id": "LS259",
+      "time": "2020-08-25T07:15:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Corfu", "IATA": "CFU", "geo": [19.9117,39.6019], "cc": "GR", "continent": "EU"},
+      "km": 2267.2,
+      "emissions": {"f": 11.5, "kg": 26072.84}
+    },
+    {
+      "id": "LS251",
+      "time": "2020-08-25T08:15:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Faro", "IATA": "FAO", "geo": [-7.96591,37.0144], "cc": "PT", "continent": "EU"},
+      "km": 1935.42,
+      "emissions": {"f": 11.5, "kg": 22257.28}
+    },
+    {
+      "id": "FR2326",
+      "time": "2020-08-25T09:35:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Palma", "IATA": "PMI", "geo": [2.73881,39.5517], "cc": "ES", "continent": "EU"},
+      "km": 1625.83,
+      "emissions": {"f": 11.5, "kg": 18697.03}
+    },
+    {
+      "id": "KL1542",
+      "time": "2020-08-25T10:15:00Z",
+      "airline": "KLM",
+      "aircraft": {"code": "B737", "name": "BOEING 737-700"},
+      "to": {"n": "Amsterdam", "IATA": "AMS", "geo": [4.76389,52.3086], "cc": "NL", "continent": "EU"},
+      "km": 462.46,
+      "emissions": {"f": 11.2, "kg": 5179.59}
+    },
+    {
+      "id": "T37682",
+      "time": "2020-08-25T11:10:00Z",
+      "airline": "Eastern Airways",
+      "aircraft": {"code": "", "name": ""},
+      "to": {"n": "Newquay", "IATA": "NQY", "geo": [-4.99541,50.4406], "cc": "GB", "continent": "EU"},
+      "km": 443.54,
+      "emissions": {"f": 11.1, "kg": 4923.3}
+    },
+    {
+      "id": "LS441",
+      "time": "2020-08-25T11:40:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Faro", "IATA": "FAO", "geo": [-7.96591,37.0144], "cc": "PT", "continent": "EU"},
+      "km": 1935.42,
+      "emissions": {"f": 11.5, "kg": 22257.28}
+    },
+    {
+      "id": "LS475",
+      "time": "2020-08-25T12:35:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Dalaman Mugla", "IATA": "DLM", "geo": [28.7925,36.7131], "cc": "TR", "continent": "AS"},
+      "km": 3012.04,
+      "emissions": {"f": 11.5, "kg": 34638.43}
+    },
+    {
+      "id": "LS413",
+      "time": "2020-08-25T13:50:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Dalaman Mugla", "IATA": "DLM", "geo": [28.7925,36.7131], "cc": "TR", "continent": "AS"},
+      "km": 3012.04,
+      "emissions": {"f": 11.5, "kg": 34638.43}
+    },
+    {
+      "id": "T37606",
+      "time": "2020-08-25T15:15:00Z",
+      "airline": "Eastern Airways",
+      "aircraft": {"code": "", "name": ""},
+      "to": {"n": "Southampton", "IATA": "SOU", "geo": [-1.3568,50.9503], "cc": "GB", "continent": "EU"},
+      "km": 324.85,
+      "emissions": {"f": 11.1, "kg": 3605.87}
+    },
+    {
+      "id": "FR2332",
+      "time": "2020-08-25T16:40:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Krakow", "IATA": "KRK", "geo": [19.7848,50.0777], "cc": "PL", "continent": "EU"},
+      "km": 1521.58,
+      "emissions": {"f": 11.5, "kg": 17498.21}
+    },
+    {
+      "id": "FR9079",
+      "time": "2020-08-25T17:25:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Alicante", "IATA": "ALC", "geo": [-0.55816,38.2822], "cc": "ES", "continent": "EU"},
+      "km": 1734.86,
+      "emissions": {"f": 11.5, "kg": 19950.88}
+    }
+  ]
+}
