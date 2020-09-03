@@ -99,6 +99,7 @@ def prettifyFlightsJSON(data):
     text = re.sub('\"geo\".*\s+(-?\d+\.\d+,)\s+(-?\d+\.\d+)\s+\]', r'"geo": [\1\2]', text)
     text = re.sub('\"aircraft\".*\s+(.*)\s+(.*)\s+\}', r'"aircraft": {\1 \2}', text)
     text = re.sub('\"to\".*\s+(.*)\s+(.*)\s+(.*)\s+(.*)\s+(.*)\s+\}', r'"to": {\1 \2 \3 \4 \5}', text)
+    text = re.sub('\"dist\".*\s+(.*)\s+(.*)\s+\}', r'"dist": {\1 \2}', text)
     text = re.sub('\"emissions\".*\s+(.*)\s+(.*)\s+\}', r'"emissions": {\1 \2}', text)
     return text
 

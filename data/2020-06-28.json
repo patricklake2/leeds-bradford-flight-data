@@ -13,7 +13,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Alicante", "IATA": "ALC", "geo": [-0.55816,38.2822], "cc": "ES", "continent": "EU"},
-      "km": 1734.86,
+      "dist": {"km": 1734.86, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 19950.88}
     }
   ]

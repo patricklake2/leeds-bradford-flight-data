@@ -13,7 +13,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Heraklion", "IATA": "HER", "geo": [25.1803,35.3397], "cc": "GR", "continent": "EU"},
-      "km": 2926.31,
+      "dist": {"km": 2926.31, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 33652.61}
     },
     {
@@ -22,7 +22,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Dublin", "IATA": "DUB", "geo": [-6.27007,53.4213], "cc": "IE", "continent": "EU"},
-      "km": 307.78,
+      "dist": {"km": 307.78, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 3539.5}
     },
     {
@@ -31,7 +31,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Ibiza", "IATA": "IBZ", "geo": [1.37312,38.8729], "cc": "ES", "continent": "EU"},
-      "km": 1682.92,
+      "dist": {"km": 1682.92, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 19353.55}
     },
     {
@@ -40,7 +40,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Malaga", "IATA": "AGP", "geo": [-4.49911,36.6749], "cc": "ES", "continent": "EU"},
-      "km": 1924.02,
+      "dist": {"km": 1924.02, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 22126.24}
     },
     {
@@ -49,7 +49,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B733", "name": "BOEING 737-300"},
       "to": {"n": "Zakinthos", "IATA": "ZTH", "geo": [20.8843,37.7509], "cc": "GR", "continent": "EU"},
-      "km": 2481.89,
+      "dist": {"km": 2481.89, "type": "gc"},
       "emissions": {"f": 11.6, "kg": 28789.97}
     },
     {
@@ -58,7 +58,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B733", "name": "BOEING 737-300"},
       "to": {"n": "Bergerac", "IATA": "EGC", "geo": [0.51861,44.8253], "cc": "FR", "continent": "EU"},
-      "km": 1017.46,
+      "dist": {"km": 1017.46, "type": "gc"},
       "emissions": {"f": 11.6, "kg": 11802.53}
     },
     {
@@ -67,7 +67,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Mahon", "IATA": "MAH", "geo": [4.21865,39.8626], "cc": "ES", "continent": "EU"},
-      "km": 1618.59,
+      "dist": {"km": 1618.59, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 18613.79}
     },
     {
@@ -76,7 +76,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Alicante", "IATA": "ALC", "geo": [-0.55816,38.2822], "cc": "ES", "continent": "EU"},
-      "km": 1734.86,
+      "dist": {"km": 1734.86, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 19950.88}
     },
     {
@@ -85,7 +85,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Palma", "IATA": "PMI", "geo": [2.73881,39.5517], "cc": "ES", "continent": "EU"},
-      "km": 1625.83,
+      "dist": {"km": 1625.83, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 18697.03}
     },
     {
@@ -94,7 +94,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Palma", "IATA": "PMI", "geo": [2.73881,39.5517], "cc": "ES", "continent": "EU"},
-      "km": 1625.83,
+      "dist": {"km": 1625.83, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 18697.03}
     },
     {
@@ -103,7 +103,7 @@
       "airline": "KLM",
       "aircraft": {"code": "E190", "name": "EMBRAER ERJ190"},
       "to": {"n": "Amsterdam", "IATA": "AMS", "geo": [4.76389,52.3086], "cc": "NL", "continent": "EU"},
-      "km": 462.46,
+      "dist": {"km": 462.46, "type": "gc"},
       "emissions": {"f": 10.2, "kg": 4717.13}
     },
     {
@@ -112,7 +112,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Arrecife", "IATA": "ACE", "geo": [-13.6052,28.9455], "cc": "ES", "continent": "EU"},
-      "km": 2935.41,
+      "dist": {"km": 2935.41, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 33757.2}
     },
     {
@@ -121,7 +121,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B733", "name": "BOEING 737-300"},
       "to": {"n": "Split", "IATA": "SPU", "geo": [16.298,43.5389], "cc": "HR", "continent": "EU"},
-      "km": 1739.09,
+      "dist": {"km": 1739.09, "type": "gc"},
       "emissions": {"f": 11.6, "kg": 20173.41}
     },
     {
@@ -130,7 +130,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Las Palmas", "IATA": "LPA", "geo": [-15.3866,27.9319], "cc": "ES", "continent": "EU"},
-      "km": 3093.42,
+      "dist": {"km": 3093.42, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 35574.31}
     },
     {
@@ -139,7 +139,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Antalya", "IATA": "AYT", "geo": [30.8005,36.8987], "cc": "TR", "continent": "AS"},
-      "km": 3115.55,
+      "dist": {"km": 3115.55, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 35828.87}
     },
     {
@@ -148,7 +148,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Tenerife South", "IATA": "TFS", "geo": [-16.5725,28.0445], "cc": "ES", "continent": "EU"},
-      "km": 3117.78,
+      "dist": {"km": 3117.78, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 35854.44}
     },
     {
@@ -157,7 +157,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Krakow", "IATA": "KRK", "geo": [19.7848,50.0777], "cc": "PL", "continent": "EU"},
-      "km": 1521.58,
+      "dist": {"km": 1521.58, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 17498.21}
     },
     {
@@ -166,7 +166,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Dalaman Mugla", "IATA": "DLM", "geo": [28.7925,36.7131], "cc": "TR", "continent": "AS"},
-      "km": 3012.04,
+      "dist": {"km": 3012.04, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 34638.43}
     },
     {
@@ -175,7 +175,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Fuerteventura", "IATA": "FUE", "geo": [-13.8638,28.4527], "cc": "ES", "continent": "EU"},
-      "km": 2995.03,
+      "dist": {"km": 2995.03, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 34442.82}
     }
   ]

@@ -13,7 +13,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Dublin", "IATA": "DUB", "geo": [-6.27007,53.4213], "cc": "IE", "continent": "EU"},
-      "km": 307.78,
+      "dist": {"km": 307.78, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 3539.5}
     },
     {
@@ -22,7 +22,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Gerona Costa Brava", "IATA": "GRO", "geo": [2.76055,41.901], "cc": "ES", "continent": "EU"},
-      "km": 1369.99,
+      "dist": {"km": 1369.99, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 15754.9}
     },
     {
@@ -31,7 +31,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "", "name": ""},
       "to": {"n": "Pisa", "IATA": "PSA", "geo": [10.3927,43.6839], "cc": "IT", "continent": "EU"},
-      "km": 1431.88,
+      "dist": {"km": 1431.88, "type": "gc"},
       "emissions": {"f": 11.8, "kg": 16896.15}
     },
     {
@@ -40,7 +40,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Malaga", "IATA": "AGP", "geo": [-4.49911,36.6749], "cc": "ES", "continent": "EU"},
-      "km": 1924.02,
+      "dist": {"km": 1924.02, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 22126.24}
     },
     {
@@ -49,7 +49,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Faro", "IATA": "FAO", "geo": [-7.96591,37.0144], "cc": "PT", "continent": "EU"},
-      "km": 1935.42,
+      "dist": {"km": 1935.42, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 22257.28}
     },
     {
@@ -58,7 +58,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Alicante", "IATA": "ALC", "geo": [-0.55816,38.2822], "cc": "ES", "continent": "EU"},
-      "km": 1734.86,
+      "dist": {"km": 1734.86, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 19950.88}
     }
   ]

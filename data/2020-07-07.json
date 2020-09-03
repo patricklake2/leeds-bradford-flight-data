@@ -13,7 +13,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Palma", "IATA": "PMI", "geo": [2.73881,39.5517], "cc": "ES", "continent": "EU"},
-      "km": 1625.83,
+      "dist": {"km": 1625.83, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 18697.03}
     },
     {
@@ -22,7 +22,7 @@
       "airline": "KLM",
       "aircraft": {"code": "E190", "name": "EMBRAER ERJ190"},
       "to": {"n": "Amsterdam", "IATA": "AMS", "geo": [4.76389,52.3086], "cc": "NL", "continent": "EU"},
-      "km": 462.46,
+      "dist": {"km": 462.46, "type": "gc"},
       "emissions": {"f": 10.2, "kg": 4717.13}
     },
     {
@@ -31,7 +31,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Krakow", "IATA": "KRK", "geo": [19.7848,50.0777], "cc": "PL", "continent": "EU"},
-      "km": 1521.58,
+      "dist": {"km": 1521.58, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 17498.21}
     },
     {
@@ -40,7 +40,7 @@
       "airline": "Eastern Airways",
       "aircraft": {"code": "", "name": ""},
       "to": {"n": "Southampton", "IATA": "SOU", "geo": [-1.3568,50.9503], "cc": "GB", "continent": "EU"},
-      "km": 324.85,
+      "dist": {"km": 324.85, "type": "gc"},
       "emissions": {"f": 11.1, "kg": 3605.87}
     },
     {
@@ -49,7 +49,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Alicante", "IATA": "ALC", "geo": [-0.55816,38.2822], "cc": "ES", "continent": "EU"},
-      "km": 1734.86,
+      "dist": {"km": 1734.86, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 19950.88}
     }
   ]

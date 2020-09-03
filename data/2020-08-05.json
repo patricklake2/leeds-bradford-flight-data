@@ -13,7 +13,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Dublin", "IATA": "DUB", "geo": [-6.27007,53.4213], "cc": "IE", "continent": "EU"},
-      "km": 307.78,
+      "dist": {"km": 307.78, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 3539.5}
     },
     {
@@ -22,7 +22,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Wroclaw", "IATA": "WRO", "geo": [16.8858,51.1027], "cc": "PL", "continent": "EU"},
-      "km": 1288.83,
+      "dist": {"km": 1288.83, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 14821.57}
     },
     {
@@ -31,7 +31,7 @@
       "airline": "KLM",
       "aircraft": {"code": "E170", "name": "EMB ERJ170 (170-100)"},
       "to": {"n": "Amsterdam", "IATA": "AMS", "geo": [4.76389,52.3086], "cc": "NL", "continent": "EU"},
-      "km": 462.46,
+      "dist": {"km": 462.46, "type": "gc"},
       "emissions": {"f": 8.9, "kg": 4115.93}
     },
     {
@@ -40,7 +40,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Zakinthos", "IATA": "ZTH", "geo": [20.8843,37.7509], "cc": "GR", "continent": "EU"},
-      "km": 2481.89,
+      "dist": {"km": 2481.89, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 28541.78}
     },
     {
@@ -49,7 +49,7 @@
       "airline": "Eastern Airways",
       "aircraft": {"code": "", "name": ""},
       "to": {"n": "Newquay", "IATA": "NQY", "geo": [-4.99541,50.4406], "cc": "GB", "continent": "EU"},
-      "km": 443.54,
+      "dist": {"km": 443.54, "type": "gc"},
       "emissions": {"f": 11.1, "kg": 4923.3}
     },
     {
@@ -58,7 +58,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Bodrum", "IATA": "BJV", "geo": [27.6643,37.2506], "cc": "TR", "continent": "AS"},
-      "km": 2901.16,
+      "dist": {"km": 2901.16, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 33363.37}
     },
     {
@@ -67,7 +67,7 @@
       "airline": "Eastern Airways",
       "aircraft": {"code": "", "name": ""},
       "to": {"n": "Southampton", "IATA": "SOU", "geo": [-1.3568,50.9503], "cc": "GB", "continent": "EU"},
-      "km": 324.85,
+      "dist": {"km": 324.85, "type": "gc"},
       "emissions": {"f": 11.1, "kg": 3605.87}
     },
     {
@@ -76,7 +76,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Malaga", "IATA": "AGP", "geo": [-4.49911,36.6749], "cc": "ES", "continent": "EU"},
-      "km": 1924.02,
+      "dist": {"km": 1924.02, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 22126.24}
     }
   ]

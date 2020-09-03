@@ -13,7 +13,7 @@
       "airline": "KLM",
       "aircraft": {"code": "E190", "name": "EMBRAER ERJ190"},
       "to": {"n": "Amsterdam", "IATA": "AMS", "geo": [4.76389,52.3086], "cc": "NL", "continent": "EU"},
-      "km": 462.46,
+      "dist": {"km": 462.46, "type": "gc"},
       "emissions": {"f": 10.2, "kg": 4717.13}
     },
     {
@@ -22,7 +22,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Zakinthos", "IATA": "ZTH", "geo": [20.8843,37.7509], "cc": "GR", "continent": "EU"},
-      "km": 2481.89,
+      "dist": {"km": 2481.89, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 28541.78}
     },
     {
@@ -31,7 +31,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Rome Fiumicino", "IATA": "FCO", "geo": [12.23889,41.80028], "cc": "IT", "continent": "EU"},
-      "km": 1689.66,
+      "dist": {"km": 1689.66, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 19431.1}
     },
     {
@@ -40,7 +40,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Corfu", "IATA": "CFU", "geo": [19.9117,39.6019], "cc": "GR", "continent": "EU"},
-      "km": 2267.2,
+      "dist": {"km": 2267.2, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 26072.84}
     },
     {
@@ -49,7 +49,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Faro", "IATA": "FAO", "geo": [-7.96591,37.0144], "cc": "PT", "continent": "EU"},
-      "km": 1935.42,
+      "dist": {"km": 1935.42, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 22257.28}
     },
     {
@@ -58,7 +58,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Palma", "IATA": "PMI", "geo": [2.73881,39.5517], "cc": "ES", "continent": "EU"},
-      "km": 1625.83,
+      "dist": {"km": 1625.83, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 18697.03}
     },
     {
@@ -67,7 +67,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Warsaw Modlin", "IATA": "WMI", "geo": [20.6518,52.4511], "cc": "PL", "continent": "EU"},
-      "km": 1489.67,
+      "dist": {"km": 1489.67, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 17131.25}
     },
     {
@@ -76,7 +76,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Limoges", "IATA": "LIG", "geo": [1.17944,45.8628], "cc": "FR", "continent": "EU"},
-      "km": 912.69,
+      "dist": {"km": 912.69, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 10495.97}
     },
     {
@@ -85,7 +85,7 @@
       "airline": "KLM",
       "aircraft": {"code": "E190", "name": "EMBRAER ERJ190"},
       "to": {"n": "Amsterdam", "IATA": "AMS", "geo": [4.76389,52.3086], "cc": "NL", "continent": "EU"},
-      "km": 462.46,
+      "dist": {"km": 462.46, "type": "gc"},
       "emissions": {"f": 10.2, "kg": 4717.13}
     },
     {
@@ -94,7 +94,7 @@
       "airline": "Eastern Airways",
       "aircraft": {"code": "", "name": ""},
       "to": {"n": "Newquay", "IATA": "NQY", "geo": [-4.99541,50.4406], "cc": "GB", "continent": "EU"},
-      "km": 443.54,
+      "dist": {"km": 443.54, "type": "gc"},
       "emissions": {"f": 11.1, "kg": 4923.3}
     },
     {
@@ -103,7 +103,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Faro", "IATA": "FAO", "geo": [-7.96591,37.0144], "cc": "PT", "continent": "EU"},
-      "km": 1935.42,
+      "dist": {"km": 1935.42, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 22257.28}
     },
     {
@@ -112,7 +112,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Ibiza", "IATA": "IBZ", "geo": [1.37312,38.8729], "cc": "ES", "continent": "EU"},
-      "km": 1682.92,
+      "dist": {"km": 1682.92, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 19353.55}
     },
     {
@@ -121,7 +121,7 @@
       "airline": "Eastern Airways",
       "aircraft": {"code": "", "name": ""},
       "to": {"n": "Southampton", "IATA": "SOU", "geo": [-1.3568,50.9503], "cc": "GB", "continent": "EU"},
-      "km": 324.85,
+      "dist": {"km": 324.85, "type": "gc"},
       "emissions": {"f": 11.1, "kg": 3605.87}
     },
     {
@@ -130,7 +130,7 @@
       "airline": "Jet2.com",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Antalya", "IATA": "AYT", "geo": [30.8005,36.8987], "cc": "TR", "continent": "AS"},
-      "km": 3115.55,
+      "dist": {"km": 3115.55, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 35828.87}
     },
     {
@@ -139,7 +139,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Faro", "IATA": "FAO", "geo": [-7.96591,37.0144], "cc": "PT", "continent": "EU"},
-      "km": 1935.42,
+      "dist": {"km": 1935.42, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 22257.28}
     },
     {
@@ -148,7 +148,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Gdansk", "IATA": "GDN", "geo": [18.4662,54.3776], "cc": "PL", "continent": "EU"},
-      "km": 1308.38,
+      "dist": {"km": 1308.38, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 15046.33}
     }
   ]

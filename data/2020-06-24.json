@@ -13,7 +13,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "", "name": ""},
       "to": {"n": "Alicante", "IATA": "ALC", "geo": [-0.55816,38.2822], "cc": "ES", "continent": "EU"},
-      "km": 1734.86,
+      "dist": {"km": 1734.86, "type": "gc"},
       "emissions": {"f": 11.8, "kg": 20471.34}
     }
   ]

@@ -13,7 +13,7 @@
       "airline": "Eastern Airways",
       "aircraft": {"code": "", "name": ""},
       "to": {"n": "Southampton", "IATA": "SOU", "geo": [-1.3568,50.9503], "cc": "GB", "continent": "EU"},
-      "km": 324.85,
+      "dist": {"km": 324.85, "type": "gc"},
       "emissions": {"f": 11.1, "kg": 3605.87}
     }
   ]

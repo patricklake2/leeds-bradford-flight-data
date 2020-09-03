@@ -54,7 +54,9 @@ if len(departures) > 0:
         flight['to']['geo'] = [row['lon'], row['lat']]
         flight['to']['cc'] = row['cc']
         flight['to']['continent'] = row['continent']
-        flight['km'] = row['km']
+        flight['dist'] = {}
+        flight['dist']['km'] = row['km']
+        flight['dist']['type'] = 'gc'
         flight['emissions'] = {}
         flight['emissions']['f'] = row['f']
         flight['emissions']['kg'] = row['kg']

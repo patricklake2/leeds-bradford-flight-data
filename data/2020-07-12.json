@@ -13,7 +13,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Dublin", "IATA": "DUB", "geo": [-6.27007,53.4213], "cc": "IE", "continent": "EU"},
-      "km": 307.78,
+      "dist": {"km": 307.78, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 3539.5}
     },
     {
@@ -22,7 +22,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Wroclaw", "IATA": "WRO", "geo": [16.8858,51.1027], "cc": "PL", "continent": "EU"},
-      "km": 1288.83,
+      "dist": {"km": 1288.83, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 14821.57}
     },
     {
@@ -31,7 +31,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Warsaw Modlin", "IATA": "WMI", "geo": [20.6518,52.4511], "cc": "PL", "continent": "EU"},
-      "km": 1489.67,
+      "dist": {"km": 1489.67, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 17131.25}
     },
     {
@@ -40,7 +40,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Alicante", "IATA": "ALC", "geo": [-0.55816,38.2822], "cc": "ES", "continent": "EU"},
-      "km": 1734.86,
+      "dist": {"km": 1734.86, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 19950.88}
     },
     {
@@ -49,7 +49,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Limoges", "IATA": "LIG", "geo": [1.17944,45.8628], "cc": "FR", "continent": "EU"},
-      "km": 912.69,
+      "dist": {"km": 912.69, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 10495.97}
     },
     {
@@ -58,7 +58,7 @@
       "airline": "KLM",
       "aircraft": {"code": "E170", "name": "EMB ERJ170 (170-100)"},
       "to": {"n": "Amsterdam", "IATA": "AMS", "geo": [4.76389,52.3086], "cc": "NL", "continent": "EU"},
-      "km": 462.46,
+      "dist": {"km": 462.46, "type": "gc"},
       "emissions": {"f": 8.9, "kg": 4115.93}
     },
     {
@@ -67,7 +67,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Ibiza", "IATA": "IBZ", "geo": [1.37312,38.8729], "cc": "ES", "continent": "EU"},
-      "km": 1682.92,
+      "dist": {"km": 1682.92, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 19353.55}
     },
     {
@@ -76,7 +76,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Gdansk", "IATA": "GDN", "geo": [18.4662,54.3776], "cc": "PL", "continent": "EU"},
-      "km": 1308.38,
+      "dist": {"km": 1308.38, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 15046.33}
     },
     {
@@ -85,7 +85,7 @@
       "airline": "Sun Air of Scandinavia A.S.",
       "aircraft": {"code": "", "name": ""},
       "to": {"n": "Humberside", "IATA": "HUY", "geo": [-0.35083,53.5744], "cc": "GB", "continent": "EU"},
-      "km": 92.07,
+      "dist": {"km": 92.07, "type": "gc"},
       "emissions": {"f": 11.1, "kg": 1021.97}
     },
     {
@@ -94,7 +94,7 @@
       "airline": "Ryanair",
       "aircraft": {"code": "B738", "name": "BOEING 737-800"},
       "to": {"n": "Faro", "IATA": "FAO", "geo": [-7.96591,37.0144], "cc": "PT", "continent": "EU"},
-      "km": 1935.42,
+      "dist": {"km": 1935.42, "type": "gc"},
       "emissions": {"f": 11.5, "kg": 22257.28}
     }
   ]
