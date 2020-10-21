@@ -1,0 +1,65 @@
+{
+  "from": {
+    "n": "Leeds Bradford",
+    "IATA": "LBA",
+    "geo": [-1.66057,53.8659],
+    "cc": "GB",
+    "continent": "EU"
+  },
+  "flights": [
+    {
+      "id": "LS465",
+      "time": "2020-10-21T08:30:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Larnaca", "IATA": "LCA", "geo": [33.6249,34.8751], "cc": "CY", "continent": "AS"},
+      "dist": {"km": 3452.89, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 39708.22}
+    },
+    {
+      "id": "LS405",
+      "time": "2020-10-21T09:15:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Paphos", "IATA": "PFO", "geo": [32.4857,34.718], "cc": "CY", "continent": "AS"},
+      "dist": {"km": 3397.86, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 39075.45}
+    },
+    {
+      "id": "LS421",
+      "time": "2020-10-21T10:00:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Rhodes", "IATA": "RHO", "geo": [28.0862,36.4054], "cc": "GR", "continent": "EU"},
+      "dist": {"km": 2996.94, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 34464.87}
+    },
+    {
+      "id": "KL1542",
+      "time": "2020-10-21T10:05:00Z",
+      "airline": "KLM",
+      "aircraft": {"code": "E75L", "name": ""},
+      "to": {"n": "Amsterdam", "IATA": "AMS", "geo": [4.76389,52.3086], "cc": "NL", "continent": "EU"},
+      "dist": {"km": 462.46, "type": "gc"},
+      "emissions": {"f": 11.8, "kg": 5457.07}
+    },
+    {
+      "id": "FR4107",
+      "time": "2020-10-21T10:10:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Wroclaw", "IATA": "WRO", "geo": [16.8858,51.1027], "cc": "PL", "continent": "EU"},
+      "dist": {"km": 1288.83, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 14821.57}
+    },
+    {
+      "id": "EI3679",
+      "time": "2020-10-21T20:00:00Z",
+      "airline": "Aer Lingus",
+      "aircraft": {"code": "", "name": ""},
+      "to": {"n": "Belfast City", "IATA": "BHD", "geo": [-5.8725,54.6181], "cc": "GB", "continent": "EU"},
+      "dist": {"km": 286.13, "type": "gc"},
+      "emissions": {"f": 11.1, "kg": 3176.02}
+    }
+  ]
+}
