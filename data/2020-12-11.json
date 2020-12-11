@@ -1,0 +1,47 @@
+{
+  "from": {
+    "n": "Leeds Bradford",
+    "IATA": "LBA",
+    "geo": [-1.66057,53.8659],
+    "cc": "GB",
+    "continent": "EU"
+  },
+  "flights": [
+    {
+      "id": "KL1540",
+      "time": "2020-12-11T06:10:00Z",
+      "airline": "KLM",
+      "aircraft": {"code": "E75L", "name": ""},
+      "to": {"n": "Amsterdam", "IATA": "AMS", "geo": [4.76389,52.3086], "cc": "NL", "continent": "EU"},
+      "dist": {"km": 462.46, "type": "gc"},
+      "emissions": {"f": 11.8, "kg": 5457.07}
+    },
+    {
+      "id": "LS223",
+      "time": "2020-12-11T08:20:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Tenerife South", "IATA": "TFS", "geo": [-16.5725,28.0445], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 3117.78, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 35854.44}
+    },
+    {
+      "id": "EI3671",
+      "time": "2020-12-11T11:40:00Z",
+      "airline": "Aer Lingus",
+      "aircraft": {"code": "", "name": ""},
+      "to": {"n": "Belfast City", "IATA": "BHD", "geo": [-5.8725,54.6181], "cc": "GB", "continent": "EU"},
+      "dist": {"km": 286.13, "type": "gc"},
+      "emissions": {"f": 11.1, "kg": 3176.02}
+    },
+    {
+      "id": "EI3679",
+      "time": "2020-12-11T20:00:00Z",
+      "airline": "Aer Lingus",
+      "aircraft": {"code": "", "name": ""},
+      "to": {"n": "Belfast City", "IATA": "BHD", "geo": [-5.8725,54.6181], "cc": "GB", "continent": "EU"},
+      "dist": {"km": 286.13, "type": "gc"},
+      "emissions": {"f": 11.1, "kg": 3176.02}
+    }
+  ]
+}
