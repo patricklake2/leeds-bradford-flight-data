@@ -1,0 +1,92 @@
+{
+  "from": {
+    "n": "Leeds Bradford",
+    "IATA": "LBA",
+    "geo": [-1.66057,53.8659],
+    "cc": "GB",
+    "continent": "EU"
+  },
+  "flights": [
+    {
+      "id": "KL1540",
+      "time": "2020-12-21T06:10:00Z",
+      "airline": "KLM",
+      "aircraft": {"code": "E75L", "name": ""},
+      "to": {"n": "Amsterdam", "IATA": "AMS", "geo": [4.76389,52.3086], "cc": "NL", "continent": "EU"},
+      "dist": {"km": 462.46, "type": "gc"},
+      "emissions": {"f": 11.8, "kg": 5457.07}
+    },
+    {
+      "id": "FR2446",
+      "time": "2020-12-21T06:20:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Malaga", "IATA": "AGP", "geo": [-4.49911,36.6749], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 1924.02, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 22126.24}
+    },
+    {
+      "id": "FR153",
+      "time": "2020-12-21T06:30:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Dublin", "IATA": "DUB", "geo": [-6.27007,53.4213], "cc": "IE", "continent": "EU"},
+      "dist": {"km": 307.78, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 3539.5}
+    },
+    {
+      "id": "LS223",
+      "time": "2020-12-21T08:20:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Tenerife South", "IATA": "TFS", "geo": [-16.5725,28.0445], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 3117.78, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 35854.44}
+    },
+    {
+      "id": "EI3671",
+      "time": "2020-12-21T11:40:00Z",
+      "airline": "Aer Lingus",
+      "aircraft": {"code": "", "name": ""},
+      "to": {"n": "Belfast City", "IATA": "BHD", "geo": [-5.8725,54.6181], "cc": "GB", "continent": "EU"},
+      "dist": {"km": 286.13, "type": "gc"},
+      "emissions": {"f": 11.1, "kg": 3176.02}
+    },
+    {
+      "id": "T3692",
+      "time": "2020-12-21T12:10:00Z",
+      "airline": "Eastern Airways",
+      "aircraft": {"code": "", "name": ""},
+      "to": {"n": "Newquay", "IATA": "NQY", "geo": [-4.99541,50.4406], "cc": "GB", "continent": "EU"},
+      "dist": {"km": 443.54, "type": "gc"},
+      "emissions": {"f": 11.1, "kg": 4923.3}
+    },
+    {
+      "id": "FR212",
+      "time": "2020-12-21T14:40:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Vilnius", "IATA": "VNO", "geo": [25.2858,54.6341], "cc": "LT", "continent": "EU"},
+      "dist": {"km": 1741.91, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 20031.93}
+    },
+    {
+      "id": "FR2203",
+      "time": "2020-12-21T16:10:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Warsaw Modlin", "IATA": "WMI", "geo": [20.6518,52.4511], "cc": "PL", "continent": "EU"},
+      "dist": {"km": 1489.67, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 17131.25}
+    },
+    {
+      "id": "FR4107",
+      "time": "2020-12-21T20:10:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Wroclaw", "IATA": "WRO", "geo": [16.8858,51.1027], "cc": "PL", "continent": "EU"},
+      "dist": {"km": 1288.83, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 14821.57}
+    }
+  ]
+}
