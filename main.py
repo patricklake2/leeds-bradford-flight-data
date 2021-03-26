@@ -14,7 +14,7 @@ start_lat = round((float)(airports_db.lat[airports_db.IATA == config['IATA']]), 
 start_lon = round((float)(airports_db.lon[airports_db.IATA == config['IATA']]), 5)
 
 departures = lib.retrieveFlights(config)
-if departures != None and len(departures) > 0:
+if len(departures) > 0:
     departures = departures.merge(airports_db, on='IATA', how='left')
 
     departures['km'] = departures.apply(lambda row: lib.calc_distance(start_lat, start_lon, row.lat, row.lon), axis=1)
