@@ -1,0 +1,20 @@
+{
+  "from": {
+    "n": "Leeds Bradford",
+    "IATA": "LBA",
+    "geo": [-1.66057,53.8659],
+    "cc": "GB",
+    "continent": "EU"
+  },
+  "flights": [
+    {
+      "id": "FR2503",
+      "time": "2021-05-25T16:55:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Faro", "IATA": "FAO", "geo": [-7.96591,37.0144], "cc": "PT", "continent": "EU"},
+      "dist": {"km": 1935.42, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 22257.28}
+    }
+  ]
+}
