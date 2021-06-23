@@ -1,0 +1,38 @@
+{
+  "from": {
+    "n": "Leeds Bradford",
+    "IATA": "LBA",
+    "geo": [-1.66057,53.8659],
+    "cc": "GB",
+    "continent": "EU"
+  },
+  "flights": [
+    {
+      "id": "FR2326",
+      "time": "2021-06-23T09:35:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Palma", "IATA": "PMI", "geo": [2.73881,39.5517], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 1625.83, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 18697.03}
+    },
+    {
+      "id": "BA7312",
+      "time": "2021-06-23T11:00:00Z",
+      "airline": "British Airways",
+      "aircraft": {"code": "", "name": ""},
+      "to": {"n": "Belfast City", "IATA": "BHD", "geo": [-5.8725,54.6181], "cc": "GB", "continent": "EU"},
+      "dist": {"km": 286.13, "type": "gc"},
+      "emissions": {"f": 11.1, "kg": 3176.02}
+    },
+    {
+      "id": "FR4107",
+      "time": "2021-06-23T11:45:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Wroclaw", "IATA": "WRO", "geo": [16.8858,51.1027], "cc": "PL", "continent": "EU"},
+      "dist": {"km": 1288.83, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 14821.57}
+    }
+  ]
+}
