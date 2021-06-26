@@ -1,0 +1,56 @@
+{
+  "from": {
+    "n": "Leeds Bradford",
+    "IATA": "LBA",
+    "geo": [-1.66057,53.8659],
+    "cc": "GB",
+    "continent": "EU"
+  },
+  "flights": [
+    {
+      "id": "FR9079",
+      "time": "2021-06-26T09:45:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Alicante", "IATA": "ALC", "geo": [-0.55816,38.2822], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 1734.86, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 19950.88}
+    },
+    {
+      "id": "KL1542",
+      "time": "2021-06-26T10:00:00Z",
+      "airline": "KLM",
+      "aircraft": {"code": "E190", "name": "EMBRAER ERJ190"},
+      "to": {"n": "Amsterdam", "IATA": "AMS", "geo": [4.76389,52.3086], "cc": "NL", "continent": "EU"},
+      "dist": {"km": 462.46, "type": "gc"},
+      "emissions": {"f": 10.2, "kg": 4717.13}
+    },
+    {
+      "id": "LS175",
+      "time": "2021-06-26T10:15:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B733", "name": "BOEING 737-300"},
+      "to": {"n": "Jersey", "IATA": "JER", "geo": [-2.19551,49.2079], "cc": "JE", "continent": "EU"},
+      "dist": {"km": 519.26, "type": "gc"},
+      "emissions": {"f": 11.6, "kg": 6023.43}
+    },
+    {
+      "id": "FR2332",
+      "time": "2021-06-26T16:35:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Krakow", "IATA": "KRK", "geo": [19.7848,50.0777], "cc": "PL", "continent": "EU"},
+      "dist": {"km": 1521.58, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 17498.21}
+    },
+    {
+      "id": "FR2503",
+      "time": "2021-06-26T17:15:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Faro", "IATA": "FAO", "geo": [-7.96591,37.0144], "cc": "PT", "continent": "EU"},
+      "dist": {"km": 1935.42, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 22257.28}
+    }
+  ]
+}
