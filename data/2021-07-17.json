@@ -1,0 +1,128 @@
+{
+  "from": {
+    "n": "Leeds Bradford",
+    "IATA": "LBA",
+    "geo": [-1.66057,53.8659],
+    "cc": "GB",
+    "continent": "EU"
+  },
+  "flights": [
+    {
+      "id": "FR153",
+      "time": "2021-07-17T06:50:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Dublin", "IATA": "DUB", "geo": [-6.27007,53.4213], "cc": "IE", "continent": "EU"},
+      "dist": {"km": 307.78, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 3539.5}
+    },
+    {
+      "id": "LS375",
+      "time": "2021-07-17T07:00:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Mahon", "IATA": "MAH", "geo": [4.21865,39.8626], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 1618.59, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 18613.79}
+    },
+    {
+      "id": "FR5041",
+      "time": "2021-07-17T07:05:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Bratislava", "IATA": "BTS", "geo": [17.2127,48.1702], "cc": "SK", "continent": "EU"},
+      "dist": {"km": 1458.24, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 16769.75}
+    },
+    {
+      "id": "LS389",
+      "time": "2021-07-17T08:45:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Funchal", "IATA": "FNC", "geo": [-16.7745,32.6979], "cc": "PT", "continent": "EU"},
+      "dist": {"km": 2640.1, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 30361.17}
+    },
+    {
+      "id": "LS257",
+      "time": "2021-07-17T09:30:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Palma", "IATA": "PMI", "geo": [2.73881,39.5517], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 1625.83, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 18697.03}
+    },
+    {
+      "id": "FR2326",
+      "time": "2021-07-17T09:35:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Palma", "IATA": "PMI", "geo": [2.73881,39.5517], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 1625.83, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 18697.03}
+    },
+    {
+      "id": "LS197",
+      "time": "2021-07-17T09:40:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Ibiza", "IATA": "IBZ", "geo": [1.37312,38.8729], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 1682.92, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 19353.55}
+    },
+    {
+      "id": "KL1542",
+      "time": "2021-07-17T10:00:00Z",
+      "airline": "KLM",
+      "aircraft": {"code": "E75L", "name": ""},
+      "to": {"n": "Amsterdam", "IATA": "AMS", "geo": [4.76389,52.3086], "cc": "NL", "continent": "EU"},
+      "dist": {"km": 462.46, "type": "gc"},
+      "emissions": {"f": 11.8, "kg": 5457.07}
+    },
+    {
+      "id": "LS239",
+      "time": "2021-07-17T10:00:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Malta", "IATA": "MLA", "geo": [14.4775,35.8575], "cc": "MT", "continent": "EU"},
+      "dist": {"km": 2359.89, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 27138.72}
+    },
+    {
+      "id": "LS175",
+      "time": "2021-07-17T10:15:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Jersey", "IATA": "JER", "geo": [-2.19551,49.2079], "cc": "JE", "continent": "EU"},
+      "dist": {"km": 519.26, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 5971.51}
+    },
+    {
+      "id": "FR9079",
+      "time": "2021-07-17T13:45:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Alicante", "IATA": "ALC", "geo": [-0.55816,38.2822], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 1734.86, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 19950.88}
+    },
+    {
+      "id": "FR2332",
+      "time": "2021-07-17T16:35:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Krakow", "IATA": "KRK", "geo": [19.7848,50.0777], "cc": "PL", "continent": "EU"},
+      "dist": {"km": 1521.58, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 17498.21}
+    },
+    {
+      "id": "LS227",
+      "time": "2021-07-17T17:40:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Palma", "IATA": "PMI", "geo": [2.73881,39.5517], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 1625.83, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 18697.03}
+    }
+  ]
+}
