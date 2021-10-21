@@ -1,0 +1,272 @@
+{
+  "from": {
+    "n": "Leeds Bradford",
+    "IATA": "LBA",
+    "geo": [-1.66057,53.8659],
+    "cc": "GB",
+    "continent": "EU"
+  },
+  "flights": [
+    {
+      "id": "KL1540",
+      "time": "2021-10-21T06:20:00Z",
+      "airline": "KLM",
+      "aircraft": {"code": "E190", "name": "EMBRAER ERJ190"},
+      "to": {"n": "Amsterdam", "IATA": "AMS", "geo": [4.76389,52.3086], "cc": "NL", "continent": "EU"},
+      "dist": {"km": 462.46, "type": "gc"},
+      "emissions": {"f": 10.2, "kg": 4717.13}
+    },
+    {
+      "id": "LS257",
+      "time": "2021-10-21T06:30:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Palma", "IATA": "PMI", "geo": [2.73881,39.5517], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 1625.83, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 18697.03}
+    },
+    {
+      "id": "FR2203",
+      "time": "2021-10-21T06:30:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Warsaw Modlin", "IATA": "WMI", "geo": [20.6518,52.4511], "cc": "PL", "continent": "EU"},
+      "dist": {"km": 1489.67, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 17131.25}
+    },
+    {
+      "id": "LS185",
+      "time": "2021-10-21T07:00:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Malaga", "IATA": "AGP", "geo": [-4.49911,36.6749], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 1924.02, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 22126.24}
+    },
+    {
+      "id": "LS197",
+      "time": "2021-10-21T07:35:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Ibiza", "IATA": "IBZ", "geo": [1.37312,38.8729], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 1682.92, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 19353.55}
+    },
+    {
+      "id": "T3600",
+      "time": "2021-10-21T07:45:00Z",
+      "airline": "Eastern Airways",
+      "aircraft": {"code": "", "name": ""},
+      "to": {"n": "Southampton", "IATA": "SOU", "geo": [-1.3568,50.9503], "cc": "GB", "continent": "EU"},
+      "dist": {"km": 324.85, "type": "gc"},
+      "emissions": {"f": 11.1, "kg": 3605.87}
+    },
+    {
+      "id": "BA7312",
+      "time": "2021-10-21T08:10:00Z",
+      "airline": "British Airways",
+      "aircraft": {"code": "E190", "name": "EMBRAER ERJ190"},
+      "to": {"n": "Belfast City", "IATA": "BHD", "geo": [-5.8725,54.6181], "cc": "GB", "continent": "EU"},
+      "dist": {"km": 286.13, "type": "gc"},
+      "emissions": {"f": 12.5, "kg": 3576.59}
+    },
+    {
+      "id": "EI8382",
+      "time": "2021-10-21T08:10:00Z",
+      "airline": "Aer Lingus",
+      "aircraft": {"code": "E190", "name": "EMBRAER ERJ190"},
+      "to": {"n": "Belfast City", "IATA": "BHD", "geo": [-5.8725,54.6181], "cc": "GB", "continent": "EU"},
+      "dist": {"km": 286.13, "type": "gc"},
+      "emissions": {"f": 12.5, "kg": 3576.59}
+    },
+    {
+      "id": "LS251",
+      "time": "2021-10-21T08:15:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Faro", "IATA": "FAO", "geo": [-7.96591,37.0144], "cc": "PT", "continent": "EU"},
+      "dist": {"km": 1935.42, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 22257.28}
+    },
+    {
+      "id": "LS271",
+      "time": "2021-10-21T08:30:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Alicante", "IATA": "ALC", "geo": [-0.55816,38.2822], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 1734.86, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 19950.88}
+    },
+    {
+      "id": "FR2326",
+      "time": "2021-10-21T08:45:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Palma", "IATA": "PMI", "geo": [2.73881,39.5517], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 1625.83, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 18697.03}
+    },
+    {
+      "id": "LS439",
+      "time": "2021-10-21T09:00:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Dubrovnik", "IATA": "DBV", "geo": [18.2682,42.5614], "cc": "HR", "continent": "EU"},
+      "dist": {"km": 1927.32, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 22164.17}
+    },
+    {
+      "id": "FR2332",
+      "time": "2021-10-21T09:15:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Krakow", "IATA": "KRK", "geo": [19.7848,50.0777], "cc": "PL", "continent": "EU"},
+      "dist": {"km": 1521.58, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 17498.21}
+    },
+    {
+      "id": "LS355",
+      "time": "2021-10-21T10:00:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Kos", "IATA": "KGS", "geo": [27.0917,36.7933], "cc": "GR", "continent": "EU"},
+      "dist": {"km": 2906.74, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 33427.48}
+    },
+    {
+      "id": "LS217",
+      "time": "2021-10-21T10:10:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Arrecife", "IATA": "ACE", "geo": [-13.6052,28.9455], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 2935.41, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 33757.2}
+    },
+    {
+      "id": "KL1542",
+      "time": "2021-10-21T11:00:00Z",
+      "airline": "KLM",
+      "aircraft": {"code": "E190", "name": "EMBRAER ERJ190"},
+      "to": {"n": "Amsterdam", "IATA": "AMS", "geo": [4.76389,52.3086], "cc": "NL", "continent": "EU"},
+      "dist": {"km": 462.46, "type": "gc"},
+      "emissions": {"f": 10.2, "kg": 4717.13}
+    },
+    {
+      "id": "LS477",
+      "time": "2021-10-21T11:25:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Las Palmas", "IATA": "LPA", "geo": [-15.3866,27.9319], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 3093.42, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 35574.31}
+    },
+    {
+      "id": "LS223",
+      "time": "2021-10-21T15:20:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Tenerife South", "IATA": "TFS", "geo": [-16.5725,28.0445], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 3117.78, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 35854.44}
+    },
+    {
+      "id": "FR1503",
+      "time": "2021-10-21T15:25:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Gdansk", "IATA": "GDN", "geo": [18.4662,54.3776], "cc": "PL", "continent": "EU"},
+      "dist": {"km": 1308.38, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 15046.33}
+    },
+    {
+      "id": "T3606",
+      "time": "2021-10-21T15:45:00Z",
+      "airline": "Eastern Airways",
+      "aircraft": {"code": "", "name": ""},
+      "to": {"n": "Southampton", "IATA": "SOU", "geo": [-1.3568,50.9503], "cc": "GB", "continent": "EU"},
+      "dist": {"km": 324.85, "type": "gc"},
+      "emissions": {"f": 11.1, "kg": 3605.87}
+    },
+    {
+      "id": "LS421",
+      "time": "2021-10-21T16:25:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Rhodes", "IATA": "RHO", "geo": [28.0862,36.4054], "cc": "GR", "continent": "EU"},
+      "dist": {"km": 2996.94, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 34464.87}
+    },
+    {
+      "id": "LS213",
+      "time": "2021-10-21T16:35:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Antalya", "IATA": "AYT", "geo": [30.8005,36.8987], "cc": "TR", "continent": "AS"},
+      "dist": {"km": 3115.55, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 35828.87}
+    },
+    {
+      "id": "LS475",
+      "time": "2021-10-21T16:35:00Z",
+      "airline": "Jet2.com",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Dalaman Mugla", "IATA": "DLM", "geo": [28.7925,36.7131], "cc": "TR", "continent": "AS"},
+      "dist": {"km": 3012.04, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 34638.43}
+    },
+    {
+      "id": "EZY290",
+      "time": "2021-10-21T16:40:00Z",
+      "airline": "Easyjet Airline Company Limited",
+      "aircraft": {"code": "A320", "name": "AIRBUS A320-100/200"},
+      "to": {"n": "Belfast International", "IATA": "BFS", "geo": [-6.21583,54.6575], "cc": "GB", "continent": "EU"},
+      "dist": {"km": 308.6, "type": "gc"},
+      "emissions": {"f": 15.0, "kg": 4629.05}
+    },
+    {
+      "id": "FR2900",
+      "time": "2021-10-21T16:50:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Chania", "IATA": "CHQ", "geo": [24.1497,35.5317], "cc": "GR", "continent": "EU"},
+      "dist": {"km": 2853.46, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 32814.83}
+    },
+    {
+      "id": "BA7316",
+      "time": "2021-10-21T17:40:00Z",
+      "airline": "British Airways",
+      "aircraft": {"code": "E190", "name": "EMBRAER ERJ190"},
+      "to": {"n": "Belfast City", "IATA": "BHD", "geo": [-5.8725,54.6181], "cc": "GB", "continent": "EU"},
+      "dist": {"km": 286.13, "type": "gc"},
+      "emissions": {"f": 12.5, "kg": 3576.59}
+    },
+    {
+      "id": "EI8390",
+      "time": "2021-10-21T17:40:00Z",
+      "airline": "Aer Lingus",
+      "aircraft": {"code": "E190", "name": "EMBRAER ERJ190"},
+      "to": {"n": "Belfast City", "IATA": "BHD", "geo": [-5.8725,54.6181], "cc": "GB", "continent": "EU"},
+      "dist": {"km": 286.13, "type": "gc"},
+      "emissions": {"f": 12.5, "kg": 3576.59}
+    },
+    {
+      "id": "FR2328",
+      "time": "2021-10-21T20:10:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Limoges", "IATA": "LIG", "geo": [1.17944,45.8628], "cc": "FR", "continent": "EU"},
+      "dist": {"km": 912.69, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 10495.97}
+    },
+    {
+      "id": "FR9089",
+      "time": "2021-10-21T21:15:00Z",
+      "airline": "Ryanair",
+      "aircraft": {"code": "B738", "name": "BOEING 737-800"},
+      "to": {"n": "Alicante", "IATA": "ALC", "geo": [-0.55816,38.2822], "cc": "ES", "continent": "EU"},
+      "dist": {"km": 1734.86, "type": "gc"},
+      "emissions": {"f": 11.5, "kg": 19950.88}
+    }
+  ]
+}
